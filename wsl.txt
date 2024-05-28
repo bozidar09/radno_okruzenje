@@ -10,4 +10,4 @@ UNINSTALL:
 wsl --unregister <verzija>
 
 SHUTDOWN:
-wsl -- shutdown
+wsl --shutdown
