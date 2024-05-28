@@ -8,3 +8,6 @@ wsl -d <verzija>
 
 UNINSTALL:
 wsl --unregister <verzija>
+
+SHUTDOWN:
+wsl -- shutdown
